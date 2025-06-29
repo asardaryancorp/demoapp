@@ -4,230 +4,263 @@
     "price": "89999 ₽",
     "oldPrice": "105000 ₽",
     "ozon": true,
-    "imageURL": ""
+    "imageURL": "",
+    "caption": "Новый iPhone 14 Pro Max с улучшенной камерой и производительностью."
   },
   {
     "title": "Samsung Galaxy S22",
     "price": "62999 ₽",
     "oldPrice": "74999 ₽",
     "ozon": true,
-    "imageURL": ""
+    "imageURL": "",
+    "caption": "Смартфон Samsung Galaxy S22 с отличным экраном и камерой."
   },
   {
     "title": "MacBook Pro 16",
     "price": "189999 ₽",
     "oldPrice": "209999 ₽",
     "ozon": false,
-    "imageURL": ""
+    "imageURL": "",
+    "caption": "Мощный MacBook Pro 16 с процессором M1 Pro для профессионалов."
   },
   {
     "title": "Apple AirPods Pro 2",
     "price": "17990 ₽",
     "oldPrice": "22990 ₽",
     "ozon": true,
-    "imageURL": ""
+    "imageURL": "",
+    "caption": "Наушники с активным шумоподавлением для максимального комфорта."
   },
   {
     "title": "Xiaomi Mi 11",
     "price": "43990 ₽",
     "oldPrice": "54990 ₽",
     "ozon": true,
-    "imageURL": ""
+    "imageURL": "",
+    "caption": "Флагман Xiaomi с отличной камерой и AMOLED экраном."
   },
   {
     "title": "Lenovo ThinkPad X1 Carbon",
     "price": "159990 ₽",
     "oldPrice": "179990 ₽",
     "ozon": true,
-    "imageURL": ""
+    "imageURL": "",
+    "caption": "Легкий и мощный ноутбук для бизнеса и работы."
   },
   {
     "title": "Sony WH-1000XM4",
     "price": "23990 ₽",
     "oldPrice": "28990 ₽",
     "ozon": true,
-    "imageURL": ""
+    "imageURL": "",
+    "caption": "Наушники с отличным качеством звука и активным шумоподавлением."
   },
   {
     "title": "Samsung Galaxy Buds Pro",
     "price": "9990 ₽",
     "oldPrice": "14990 ₽",
     "ozon": false,
-    "imageURL": ""
+    "imageURL": "",
+    "caption": "Компактные и удобные беспроводные наушники Samsung."
   },
   {
     "title": "Asus ROG Strix G15",
     "price": "104999 ₽",
     "oldPrice": "124999 ₽",
     "ozon": true,
-    "imageURL": ""
+    "imageURL": "",
+    "caption": "Игровой ноутбук с мощной видеокартой и отличной производительностью."
   },
   {
     "title": "Apple iPad Air 2022",
     "price": "58990 ₽",
     "oldPrice": "69990 ₽",
     "ozon": false,
-    "imageURL": ""
+    "imageURL": "",
+    "caption": "Планшет с мощным процессором и отличным дисплеем для работы и развлечений."
   },
   {
     "title": "HP Spectre x360 14",
     "price": "124990 ₽",
     "oldPrice": "139990 ₽",
     "ozon": true,
-    "imageURL": ""
+    "imageURL": "",
+    "caption": "Элегантный и мощный ноутбук с поворотным экраном."
   },
   {
     "title": "Apple Watch Series 7",
     "price": "45990 ₽",
     "oldPrice": "49990 ₽",
     "ozon": true,
-    "imageURL": ""
+    "imageURL": "",
+    "caption": "Смарт-часы с увеличенным экраном и улучшенной функциональностью."
   },
   {
     "title": "Microsoft Surface Laptop 4",
     "price": "114990 ₽",
     "oldPrice": "129990 ₽",
     "ozon": false,
-    "imageURL": ""
+    "imageURL": "",
+    "caption": "Стильный и мощный ноутбук от Microsoft с прекрасным дисплеем."
   },
   {
     "title": "Xiaomi Redmi Note 10",
     "price": "15990 ₽",
     "oldPrice": "21990 ₽",
     "ozon": true,
-    "imageURL": ""
+    "imageURL": "",
+    "caption": "Доступный смартфон с хорошей производительностью и качественной камерой."
   },
   {
     "title": "JBL Charge 5",
     "price": "12990 ₽",
     "oldPrice": "16990 ₽",
     "ozon": true,
-    "imageURL": ""
+    "imageURL": "",
+    "caption": "Портативная колонка с хорошим звуком и водонепроницаемостью."
   },
   {
     "title": "Samsung Galaxy A72",
     "price": "28990 ₽",
     "oldPrice": "35990 ₽",
     "ozon": true,
-    "imageURL": ""
+    "imageURL": "",
+    "caption": "Смартфон с отличной камерой и большим экраном."
   },
   {
     "title": "Logitech G Pro X",
     "price": "9990 ₽",
     "oldPrice": "13990 ₽",
     "ozon": false,
-    "imageURL": ""
+    "imageURL": "",
+    "caption": "Геймерская мышь с точностью и комфортом."
   },
   {
     "title": "Apple Mac Mini M1",
     "price": "71990 ₽",
     "oldPrice": "82990 ₽",
     "ozon": true,
-    "imageURL": ""
+    "imageURL": "",
+    "caption": "Компактный и мощный компьютер с чипом M1 для работы и творчества."
   },
   {
     "title": "Sony PlayStation 5",
     "price": "49990 ₽",
     "oldPrice": "54990 ₽",
     "ozon": true,
-    "imageURL": ""
+    "imageURL": "",
+    "caption": "Игровая консоль нового поколения с потрясающими играми."
   },
   {
     "title": "Samsung QLED TV 55\"",
     "price": "75990 ₽",
     "oldPrice": "89990 ₽",
     "ozon": true,
-    "imageURL": ""
+    "imageURL": "",
+    "caption": "Телевизор с великолепным качеством изображения и поддержкой 4K."
   },
   {
     "title": "Bose QuietComfort 45",
     "price": "24990 ₽",
     "oldPrice": "29990 ₽",
     "ozon": false,
-    "imageURL": ""
+    "imageURL": "",
+    "caption": "Шумоподавляющие наушники с отличным качеством звука."
   },
   {
     "title": "Huawei P40 Pro",
     "price": "62990 ₽",
     "oldPrice": "74990 ₽",
     "ozon": true,
-    "imageURL": ""
+    "imageURL": "",
+    "caption": "Смартфон с качественной камерой и высоким уровнем производительности."
   },
   {
     "title": "Apple MacBook Air M1",
     "price": "84990 ₽",
     "oldPrice": "99990 ₽",
     "ozon": true,
-    "imageURL": ""
+    "imageURL": "",
+    "caption": "Легкий и мощный ноутбук от Apple с чипом M1."
   },
   {
     "title": "Samsung Galaxy Z Flip 3",
     "price": "89990 ₽",
     "oldPrice": "109990 ₽",
     "ozon": true,
-    "imageURL": ""
+    "imageURL": "",
+    "caption": "Складной смартфон с стильным дизайном и передовыми технологиями."
   },
   {
     "title": "Xiaomi Mi Band 6",
     "price": "2690 ₽",
     "oldPrice": "3990 ₽",
     "ozon": true,
-    "imageURL": ""
+    "imageURL": "",
+    "caption": "Фитнес-браслет с множеством функций и длительным временем работы."
   },
   {
     "title": "GoPro HERO 10 Black",
     "price": "31990 ₽",
     "oldPrice": "38990 ₽",
     "ozon": false,
-    "imageURL": ""
+    "imageURL": "",
+    "caption": "Экшн-камера с отличной стабилизацией и высоким качеством съемки."
   },
   {
     "title": "DJI Mini 2",
     "price": "39990 ₽",
     "oldPrice": "46990 ₽",
     "ozon": true,
-    "imageURL": ""
+    "imageURL": "",
+    "caption": "Компактный и легкий дрон для съемки потрясающих видео."
   },
   {
     "title": "Sony Xperia 1 II",
     "price": "74990 ₽",
     "oldPrice": "86990 ₽",
     "ozon": true,
-    "imageURL": ""
+    "imageURL": "",
+    "caption": "Флагманский смартфон с потрясающим дисплеем и камерами."
   },
   {
     "title": "Nokia 8.3 5G",
     "price": "29990 ₽",
     "oldPrice": "35990 ₽",
     "ozon": true,
-    "imageURL": ""
+    "imageURL": "",
+    "caption": "Смартфон с поддержкой 5G и отличной камерой."
   },
   {
     "title": "Apple iPhone SE 2022",
     "price": "45990 ₽",
     "oldPrice": "54990 ₽",
     "ozon": true,
-    "imageURL": ""
+    "imageURL": "",
+    "caption": "Компактный и мощный iPhone по доступной цене."
   },
   {
     "title": "Google Pixel 6",
     "price": "54990 ₽",
     "oldPrice": "62990 ₽",
     "ozon": true,
-    "imageURL": ""
+    "imageURL": "",
+    "caption": "Смартфон от Google с отличной камерой и обновленным дизайном."
   },
   {
     "title": "Huawei MateBook D15",
     "price": "38990 ₽",
     "oldPrice": "46990 ₽",
     "ozon": false,
-    "imageURL": ""
+    "imageURL": "",
+    "caption": "Бюджетный ноутбук с хорошей производительностью для работы и учебы."
   },
   {
     "title": "Microsoft Xbox Series X",
     "price": "44990 ₽",
     "oldPrice": "51990 ₽",
     "ozon": true,
-    "imageURL": ""
+    "imageURL": "",
+    "caption": "Игровая консоль для любителей высококачественных игр и развлечений."
   }
 ]
