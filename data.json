@@ -262,5 +262,101 @@
     "ozon": true,
     "imageURL": "",
     "caption": "Игровая консоль для любителей высококачественных игр и развлечений."
+  },
+  {
+    "title": "Apple MacBook Pro 13 M1",
+    "price": "94990 ₽",
+    "oldPrice": "109990 ₽",
+    "ozon": true,
+    "imageURL": "",
+    "caption": "Компактный и производительный ноутбук для работы и творчества."
+  },
+  {
+    "title": "Samsung Galaxy Z Fold 3",
+    "price": "159990 ₽",
+    "oldPrice": "179990 ₽",
+    "ozon": true,
+    "imageURL": "",
+    "caption": "Складной смартфон с большим экраном и передовыми функциями."
+  },
+  {
+    "title": "Sony WH-1000XM5",
+    "price": "29990 ₽",
+    "oldPrice": "35990 ₽",
+    "ozon": true,
+    "imageURL": "",
+    "caption": "Наушники с улучшенным шумоподавлением и превосходным звуком."
+  },
+  {
+    "title": "Xiaomi Redmi Note 11 Pro",
+    "price": "24990 ₽",
+    "oldPrice": "28990 ₽",
+    "ozon": true,
+    "imageURL": "",
+    "caption": "Отличный смартфон с большим экраном и хорошей камерой."
+  },
+  {
+    "title": "Razer DeathAdder V2",
+    "price": "5490 ₽",
+    "oldPrice": "6990 ₽",
+    "ozon": true,
+    "imageURL": "",
+    "caption": "Мышь с точным сенсором и эргономичным дизайном для геймеров."
+  },
+  {
+    "title": "Apple TV 4K",
+    "price": "13990 ₽",
+    "oldPrice": "16990 ₽",
+    "ozon": true,
+    "imageURL": "",
+    "caption": "Медиаплеер с поддержкой 4K и Dolby Vision."
+  },
+  {
+    "title": "Logitech MX Master 3",
+    "price": "8490 ₽",
+    "oldPrice": "9990 ₽",
+    "ozon": false,
+    "imageURL": "",
+    "caption": "Профессиональная мышь для работы с графикой и офисными приложениями."
+  },
+  {
+    "title": "Bose SoundLink Revolve+",
+    "price": "19990 ₽",
+    "oldPrice": "22990 ₽",
+    "ozon": true,
+    "imageURL": "",
+    "caption": "Портативная колонка с отличным звуком и прочной конструкцией."
+  },
+  {
+    "title": "Huawei FreeBuds 4",
+    "price": "7990 ₽",
+    "oldPrice": "9990 ₽",
+    "ozon": false,
+    "imageURL": "",
+    "caption": "Беспроводные наушники с качественным звуком и комфортом."
+  },
+  {
+    "title": "Acer Predator Helios 300",
+    "price": "124990 ₽",
+    "oldPrice": "139990 ₽",
+    "ozon": true,
+    "imageURL": "",
+    "caption": "Игровой ноутбук с мощной видеокартой и высокой частотой обновления экрана."
+  },
+  {
+    "title": "Google Nest Hub 2",
+    "price": "7990 ₽",
+    "oldPrice": "9990 ₽",
+    "ozon": true,
+    "imageURL": "",
+    "caption": "Умный дисплей с голосовым помощником и множеством функций для дома."
+  },
+  {
+    "title": "Oculus Quest 2",
+    "price": "29990 ₽",
+    "oldPrice": "34990 ₽",
+    "ozon": true,
+    "imageURL": "",
+    "caption": "Виртуальная реальность с потрясающим качеством и большим выбором контента."
   }
 ]
