@@ -1,1 +1,233 @@
-{"test": 123}
+[
+  {
+    "title": "iPhone 14 Pro Max",
+    "price": "89999 ₽",
+    "oldPrice": "105000 ₽",
+    "ozon": true,
+    "imageURL": ""
+  },
+  {
+    "title": "Samsung Galaxy S22",
+    "price": "62999 ₽",
+    "oldPrice": "74999 ₽",
+    "ozon": true,
+    "imageURL": ""
+  },
+  {
+    "title": "MacBook Pro 16",
+    "price": "189999 ₽",
+    "oldPrice": "209999 ₽",
+    "ozon": false,
+    "imageURL": ""
+  },
+  {
+    "title": "Apple AirPods Pro 2",
+    "price": "17990 ₽",
+    "oldPrice": "22990 ₽",
+    "ozon": true,
+    "imageURL": ""
+  },
+  {
+    "title": "Xiaomi Mi 11",
+    "price": "43990 ₽",
+    "oldPrice": "54990 ₽",
+    "ozon": true,
+    "imageURL": ""
+  },
+  {
+    "title": "Lenovo ThinkPad X1 Carbon",
+    "price": "159990 ₽",
+    "oldPrice": "179990 ₽",
+    "ozon": true,
+    "imageURL": ""
+  },
+  {
+    "title": "Sony WH-1000XM4",
+    "price": "23990 ₽",
+    "oldPrice": "28990 ₽",
+    "ozon": true,
+    "imageURL": ""
+  },
+  {
+    "title": "Samsung Galaxy Buds Pro",
+    "price": "9990 ₽",
+    "oldPrice": "14990 ₽",
+    "ozon": false,
+    "imageURL": ""
+  },
+  {
+    "title": "Asus ROG Strix G15",
+    "price": "104999 ₽",
+    "oldPrice": "124999 ₽",
+    "ozon": true,
+    "imageURL": ""
+  },
+  {
+    "title": "Apple iPad Air 2022",
+    "price": "58990 ₽",
+    "oldPrice": "69990 ₽",
+    "ozon": false,
+    "imageURL": ""
+  },
+  {
+    "title": "HP Spectre x360 14",
+    "price": "124990 ₽",
+    "oldPrice": "139990 ₽",
+    "ozon": true,
+    "imageURL": ""
+  },
+  {
+    "title": "Apple Watch Series 7",
+    "price": "45990 ₽",
+    "oldPrice": "49990 ₽",
+    "ozon": true,
+    "imageURL": ""
+  },
+  {
+    "title": "Microsoft Surface Laptop 4",
+    "price": "114990 ₽",
+    "oldPrice": "129990 ₽",
+    "ozon": false,
+    "imageURL": ""
+  },
+  {
+    "title": "Xiaomi Redmi Note 10",
+    "price": "15990 ₽",
+    "oldPrice": "21990 ₽",
+    "ozon": true,
+    "imageURL": ""
+  },
+  {
+    "title": "JBL Charge 5",
+    "price": "12990 ₽",
+    "oldPrice": "16990 ₽",
+    "ozon": true,
+    "imageURL": ""
+  },
+  {
+    "title": "Samsung Galaxy A72",
+    "price": "28990 ₽",
+    "oldPrice": "35990 ₽",
+    "ozon": true,
+    "imageURL": ""
+  },
+  {
+    "title": "Logitech G Pro X",
+    "price": "9990 ₽",
+    "oldPrice": "13990 ₽",
+    "ozon": false,
+    "imageURL": ""
+  },
+  {
+    "title": "Apple Mac Mini M1",
+    "price": "71990 ₽",
+    "oldPrice": "82990 ₽",
+    "ozon": true,
+    "imageURL": ""
+  },
+  {
+    "title": "Sony PlayStation 5",
+    "price": "49990 ₽",
+    "oldPrice": "54990 ₽",
+    "ozon": true,
+    "imageURL": ""
+  },
+  {
+    "title": "Samsung QLED TV 55\"",
+    "price": "75990 ₽",
+    "oldPrice": "89990 ₽",
+    "ozon": true,
+    "imageURL": ""
+  },
+  {
+    "title": "Bose QuietComfort 45",
+    "price": "24990 ₽",
+    "oldPrice": "29990 ₽",
+    "ozon": false,
+    "imageURL": ""
+  },
+  {
+    "title": "Huawei P40 Pro",
+    "price": "62990 ₽",
+    "oldPrice": "74990 ₽",
+    "ozon": true,
+    "imageURL": ""
+  },
+  {
+    "title": "Apple MacBook Air M1",
+    "price": "84990 ₽",
+    "oldPrice": "99990 ₽",
+    "ozon": true,
+    "imageURL": ""
+  },
+  {
+    "title": "Samsung Galaxy Z Flip 3",
+    "price": "89990 ₽",
+    "oldPrice": "109990 ₽",
+    "ozon": true,
+    "imageURL": ""
+  },
+  {
+    "title": "Xiaomi Mi Band 6",
+    "price": "2690 ₽",
+    "oldPrice": "3990 ₽",
+    "ozon": true,
+    "imageURL": ""
+  },
+  {
+    "title": "GoPro HERO 10 Black",
+    "price": "31990 ₽",
+    "oldPrice": "38990 ₽",
+    "ozon": false,
+    "imageURL": ""
+  },
+  {
+    "title": "DJI Mini 2",
+    "price": "39990 ₽",
+    "oldPrice": "46990 ₽",
+    "ozon": true,
+    "imageURL": ""
+  },
+  {
+    "title": "Sony Xperia 1 II",
+    "price": "74990 ₽",
+    "oldPrice": "86990 ₽",
+    "ozon": true,
+    "imageURL": ""
+  },
+  {
+    "title": "Nokia 8.3 5G",
+    "price": "29990 ₽",
+    "oldPrice": "35990 ₽",
+    "ozon": true,
+    "imageURL": ""
+  },
+  {
+    "title": "Apple iPhone SE 2022",
+    "price": "45990 ₽",
+    "oldPrice": "54990 ₽",
+    "ozon": true,
+    "imageURL": ""
+  },
+  {
+    "title": "Google Pixel 6",
+    "price": "54990 ₽",
+    "oldPrice": "62990 ₽",
+    "ozon": true,
+    "imageURL": ""
+  },
+  {
+    "title": "Huawei MateBook D15",
+    "price": "38990 ₽",
+    "oldPrice": "46990 ₽",
+    "ozon": false,
+    "imageURL": ""
+  },
+  {
+    "title": "Microsoft Xbox Series X",
+    "price": "44990 ₽",
+    "oldPrice": "51990 ₽",
+    "ozon": true,
+    "imageURL": ""
+  }
+]
